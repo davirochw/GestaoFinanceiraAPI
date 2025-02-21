@@ -1,9 +1,5 @@
 ﻿# Gestão Financeira API 💰
 
-![GitHub](https://img.shields.io/github/license/seu-usuario/GestaoFinanceiraAPI)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/GestaoFinanceiraAPI)
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/GestaoFinanceiraAPI)
-
 **Gestão Financeira API**! Um sistema desenvolvido em **.NET** para ajudar no controle financeiro pessoal, com funcionalidades como autenticação de usuários, categorias de despesas, geração de relatórios e muito mais.
 
 ---
